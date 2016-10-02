@@ -1,4 +1,6 @@
 stack:
+  nginx:
+    index: index.php
   php:
     version: 5.6
     modules:
